@@ -1,0 +1,1 @@
+Estudos relacionado ao entendimento de Lógica de programação e suas aplicações
